@@ -1,5 +1,4 @@
 # joints-2020
-A binary text classification task using Bag of Words
 
 The goal of this task is to classify e-mails into 2 classes (spam or non spam). Spam e-mails are labeled as 'Result' equals to 1 and non spam e-mails are labeled as 'Result' equals 0.
 
