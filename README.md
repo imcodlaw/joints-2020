@@ -10,4 +10,4 @@ There are some problems that need to be solved in order to make a good classific
 - Outliers
 - Missing values
 
-In this notebook all of the problems are going to be treated step by step so machine learning model(s) are able to make an accurate prediction.
+In this notebook all of the problems are going to be treated step by step so machine learning models are able to make an accurate prediction.
